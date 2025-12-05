@@ -5,7 +5,7 @@ model: ESP_IR_TR
 image: /assets/device_images/ESP_IR_TR.webp
 template9: '{"NAME":"Tasmota IR-Gateway","GPIO":[0,0,0,0,1056,0,0,0,0,0,1088,0,0,0],"FLAG":0,"BASE":18}' 
 link: https://www.aliexpress.com/item/1005001715624852.html
-link2: 
+link2: https://www.amazon.de/IR-Transceiver-Wifi-Wireless-Modul-WIFI-Fernbedienungsschalter-Infrarot-Transceiver-Sensor-Entwicklung/dp/B0DFCHK1GT/ref=sr_1_1
 mlink: 
 flash: serial
 category: Misc
